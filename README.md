@@ -46,6 +46,3 @@ src/
  └── main.jsx            # React entry
 
 
-📄 License
-
-MIT
